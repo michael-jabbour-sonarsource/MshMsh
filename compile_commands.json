@@ -1,0 +1,7 @@
+[
+{
+  "file": "src/main/cfamily/main.c",
+  "directory": ".",
+  "command": "gcc -o main src/main/cfamily/main.c"
+}
+]
