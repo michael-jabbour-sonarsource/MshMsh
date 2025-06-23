@@ -23,5 +23,6 @@ jobs:
             --define sonar.cfamily.compile-commands="compile_commands.json"
             --define sonar.projectKey=michael-jabbour-sonarsource_mshmschci
             --define sonar.organization=michael-jabbour-sonarsource
+            --define sonar.scanner.keepReport=true
 
 
